@@ -1,4 +1,4 @@
-# Sprint 99 Summary
+# sprint-99-summary
 
 ## Sprint Goals
 
