@@ -8,7 +8,7 @@ coverY: 0
 
 **Dev:**
 
-_**Prioritized DAC and Notifications Work**_&#x20;
+_**Prioritized DAC and Notifications Work**_
 
 * \#2978 — As sys admin, I want to be able to reparse datafile sets&#x20;
 * \#3002 — \[BUG] Django admin filter not working properly
@@ -49,20 +49,14 @@ _**Support reviews, planning for simplified quarter selection in TDP, email temp
 
 ### Submitted (QASP Review, OCIO Review)
 
-* [As a data analyst I want to be notified of approaching data deadlines](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2473)
-* [\[Error Audit\] Category 2 error messages clean-up](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2693)
-* [Friendly name cleanup](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2801)
-* [Pre-Made Reporting Dashboards on Kibana](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2883)
-* [TDRS Parity Tracker](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2896)
-* [Final mile procedures and updates](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2931)
-* [As tech lead, I need the STT filter for search\_indexes to be updated](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2950)
-* [Extend SESSION\_COOKIE\_AGE](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2954)
-* [2693 cat2 messaging cleanup](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2963)
-* [2950 updated search index](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2964)
-* [Kibana Dashboard MVP](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2993)
-* [2473 - Upcoming data deadline notification](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3018)
-* [2954 - Remove SESSION\_TIMEOUT](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3020)
-* [DAC Multi-Select Filtering](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3037)
+* [#2473 As a data analyst I want to be notified of approaching data deadlines](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2473)
+* [#2693 \[Error Audit\] Category 2 error messages clean-up ](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2693)
+* [#2801 Friendly name cleanup](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2801)
+* [#2883 Pre-Made Reporting Dashboards on Kibana](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2883)
+* [#2896 TDRS Parity Tracker](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2896)
+* [#2950 As tech lead, I need the STT filter for search\_indexes to be updated](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2950)
+* [#2954 Extend SESSION\_COOKIE\_AGE](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2954)
+* [#2950 As tech lead, I need the STT filter for search\_indexes to be updated](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2950)
 
 ### Ready to Merge
 
@@ -76,14 +70,10 @@ _**Support reviews, planning for simplified quarter selection in TDP, email temp
 
 **In Progress**&#x20;
 
-* [\[SPIKE\] As tech lead, I need to know the real-time branches deployed in Cloud.gov spaces](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/1620)
-* [\[Error Audit\] Category 3 error messages clean-up](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2792)
-* [Backend Dependency Update](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2977)
-* [Parity Clean Up](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2995)
-* [Implement (small) data lifecycle (backup/archive ES)](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3004)
-* [Spike - Continue Zap Sleep Investigation](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3022)
-* [Re-parse Command](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3041)
-* [3022 changing workflow to run with WIP](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3056)
+* [#1620 \[SPIKE\] As tech lead, I need to know the real-time branches deployed in Cloud.gov spaces](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/1620)
+* [#2792 \[Error Audit\] Category 3 error messages clean-up](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2792)I
+* [#3004 Implement (small) data lifecycle (backup/archive ES)](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3004)
+* [#3022 Spike - Continue Zap Sleep Investigation](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3022)
 
 #### Blocked
 
@@ -91,14 +81,10 @@ _**Support reviews, planning for simplified quarter selection in TDP, email temp
 
 **Raft Review**
 
-* [As sys admin, I need the Access Request emails to admins to resume](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2687)
-* [\[Design Deliverable\] Email spec for Admin Notification for stuck files](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2985)
-* [Add dynamic field name to cat4 error messages](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2996)
-* [\[BUG\] Django admin filter not working properly](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3002)
-* [Spike - Cat2 Validator Improvement](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3016)
-* [Spike - As an STT user I need better guidance on selecting the appropriate fiscal period to submit my quarterly files](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3017)
-* [As an STT user, I need an accurate error report when I space-fill \`COUNTY\_FIPS\_CODE\`](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3025)
-* [3016 - cat3 error cleanup](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3032)
-* [3025 As an STT user, I need an accurate error report when I space-fill \`COUNTY\_FIPS\_CODE\`](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3045)
-* [2687 Added email text for sendgrid](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3050)
-* [Dynamic Cat4 Error Messages](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3051)
+* [#2687 As sys admin, I need the Access Request emails to admins to resume](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2687)
+* [#2985 \[Design Deliverable\] Email spec for Admin Notification for stuck files](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2985)
+* [#2996 Add dynamic field name to cat4 error messages](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2996)
+* [#3002 \[BUG\] Django admin filter not working properly](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3002)
+* [#3016 Spike - Cat2 Validator Improvement](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3016)
+* [#3017 Spike - As an STT user I need better guidance on selecting the appropriate fiscal period to submit my quarterly files](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3017)
+* &#x20;[#3025 As an STT user, I need an accurate error report when I space-fill `COUNTY_FIPS_CODE`](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3025)
