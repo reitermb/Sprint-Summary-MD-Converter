@@ -6,5 +6,5 @@
 * [sprint-101-summary](sprint-101-summary.md)
 * [sprint-102-summary](sprint-102-summary.md)
 * [sprint-103-summary](sprint-103-summary.md)
-* [README](readme.md)
 * [sprint-104-summary](sprint-104-summary.md)
+* [README](readme.md)
