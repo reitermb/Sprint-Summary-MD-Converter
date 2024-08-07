@@ -41,7 +41,7 @@ _**Support reviews, Finalize Django Admin Experience epic research, Draft resear
 * [#2960 As a engineer I need to replace bash script with task file for local dev](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2960)
 * [#3004 Implement (small) data lifecycle (backup/archive ES)](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3004)
 * [#3016 Spike - Cat2 Validator Improvement](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3016)
-* [#3049 as an STT user, I need the error message related to the header update indicator clarified](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/reports/burndown?milestoneId=Z2lkOi8vcmFwdG9yL1NwcmludC8xOTgzNDg2\&entity=sprints)
+* [#3049 as an STT user, I need the error message related to the header update indicator clarified](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3049)
 * [#3059 Bug: file stuck in pending state when DOB or SSN field is space-filled](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3059)
 
 ### Submitted (QASP Review, OCIO Review)
