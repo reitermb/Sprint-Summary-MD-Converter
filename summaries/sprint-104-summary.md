@@ -70,8 +70,7 @@ _**Support reviews, Finalize Django Admin Experience epic research, Draft resear
 
 **In Progress**&#x20;
 
-* [#2792 \[Error Audit\] Category 3 error messages clean-up](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2792)I
-*
+* [#2792 \[Error Audit\] Category 3 error messages clean-up](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2792)
 
 #### Blocked
 
