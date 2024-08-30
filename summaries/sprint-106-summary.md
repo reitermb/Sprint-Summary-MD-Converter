@@ -56,23 +56,18 @@ _**Support reviews, In-app banner to support parsed data, Continue Error Audit (
 * [#3143 August release notes — Knowledge Center & Email Template](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3143)
 * [#3061 \[a11y fix\] Django multi-select filter ](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3061)
 * [#2954 Extend SESSION\_COOKIE\_AGE](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2954)
+* [#3079 DB Backup Script Fix](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3079)
 
 ### Submitted (QASP Review, OCIO Review)
 
-*
-* [#3061 \[a11y fix\] Django multi-select filter ](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3061)
-* [#3079 DB Backup Script Fix](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3079)
+* [#3064 Re-parse Meta Model](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3064)
+* [#3065 Spike - Guarantee Sequential Execution of Re-parse Command](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3065)
+* [#2792 \[Error Audit\] Category 3 error messages clean-up](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2792)
 * [#2883 Pre-Made Reporting Dashboards on Kibana](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2883)
-*
-*
-* [#2993 Kibana Dashboard MVP](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2993)
+* [#2561 As a sys admin, I need TDP to automatically deactivate accounts that are inactive for 180 days](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2561)
+* [#3078 \[Research Synthesis\] DIGIT Admin Experience Improvements](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3078)
 
 ### Ready to Merge
-
-* [#3058 \[Design Deliverable\] Release notes email template](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3058)
-* [#3062 bug: ES docker image for non-dev spaces stored in personal dockerhub](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3062)
-* [#3073 \[bug\] TDP is raising cat 4 error on TANF/SSP closed case files that is not present](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3073)
-* [#3107 \[Re-parse command\] Retain original submission date when command runs](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3107)
 
 ### Closed (Not Merged)
 
@@ -83,16 +78,22 @@ _**Support reviews, In-app banner to support parsed data, Continue Error Audit (
 **In Progress**&#x20;
 
 * [#2965 As tech lead, I want a database seed implemented for testing](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2965)
+* [#2458 Integrate Nexus into CircleCI](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2458)
+* [#3137 \[bug\] OFA unable to export data to csv by record type and fiscal period](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3137)
+* [#2968 \[Design Deliverable\] Update Error Audit for Cat 4 / QA](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2968)
+* [#3060 As a TDP user, I need to stay logged in when I'm actively using the system](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3060)
+* [#3074 TDP Data Files page permissions for DIGIT & Sys Admin user groups](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3074)
+* [#3114 \[Design Spike\] In-app banner for submission history pages w/ data parsed before May 2024](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3114)
+* [#3142 \[Research Spike\] Get more detail about Yun & DIGIT's data workflow and use cases](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3142)
 
 #### Blocked
 
-* [#2458 Integrate Nexus into CircleCI](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2458)
+*
 
 **Raft Review**
 
 * [#3043 Sentry: Local environment for Debugging](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3043)
-* [#3064 Re-parse Meta Model](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3064)
-* [#3065 Spike - Guarantee Sequential Execution of Re-parse Command](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3065)
-* [#3078 \[Research Synthesis\] DIGIT Admin Experience Improvements](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3078)
+* [#3110 Spike - Investigate Custom Filter Integration](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3110)
+* [#3102 Admin Exp: Django Implement Multi-Select Fiscal Period Dropdown For Data Export ](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3102)
 * [#3087 Admin By Newest Filter Enhancements for Data Files Page](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3087)
-* [#2792 \[Error Audit\] Category 3 error messages clean-up](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/2792)
+* [#3076 Admin Filter Enhancements for Data Files Page ](https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3076)
