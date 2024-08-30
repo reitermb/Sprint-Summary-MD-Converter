@@ -1,8 +1,6 @@
----
-description: 8/14/202 - 8/27/2024
----
-
 # sprint-106-summary
+
+8/14/202 - 8/27/2024
 
 ### <mark style="color:orange;">Priority Setting</mark>
 
