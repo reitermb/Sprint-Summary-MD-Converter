@@ -1,5 +1,7 @@
 # sprint-107-summary
 
+8/28/2024 - 9/10/2024
+
 ### <mark style="color:orange;">Priority Setting</mark>
 
 * Re-parsing epic &#x20;
