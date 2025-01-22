@@ -28,6 +28,8 @@ In this sprint, our team made significant strides in enhancing the application's
 
 ### Improved Developer Tooling
 
+Please note: #3223 - Automate buildpack states via Terraform was not completed, as the time required to complete the work outweighed the relative benefit of completion.
+
 <table><thead><tr><th width="176">Task</th><th width="445">Value Proposition</th><th>Status</th></tr></thead><tbody><tr><td><a href="https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3223">#3223</a> - Automate buildpack states via Terraform</td><td>Enhanced the team's ability to manage and track CloudFoundry deployments more effectively, improving state visibility, reducing unnecessary redeployments, and ensuring better control over infrastructure, while maintaining seamless integration with CircleCI and updating relevant documentation.</td><td><mark style="color:red;"><strong>CLOSED AND WILL NOT COMPLETE</strong></mark></td></tr><tr><td><a href="https://app.zenhub.com/workspaces/sprint-board-5f18ab06dfd91c000f7e682e/issues/gh/raft-tech/tanf-app/3205">#3205</a> - Reparse command refactor</td><td>Streamlines and simplifies the reparse logic by creating a shared utility function, improving maintainability and enabling more customizable parsing behavior for both the admin and management commands.</td><td><mark style="color:orange;"><strong>RAFT REVIEW</strong></mark></td></tr></tbody></table>
 
 ### FRA Reporting Requirements MVP
