@@ -18,3 +18,4 @@
 * [Sprint 114 Summary](sprint-114-summary.md)
 * [Sprint 115 Summary](sprint-115-summary.md)
 * [Sprint 116 Summary](sprint-116-summary.md)
+* [Sprint 117 Summary](sprint-117-summary.md)
