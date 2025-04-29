@@ -24,3 +24,4 @@
 * [Sprint 120 Summary](sprint-120-summary.md)
 * [Sprint 121 Summary](sprint-121-summary.md)
 * [Sprint 122 Summary](sprint-122-summary.md)
+* [Sprint 123 Summary](sprint-123-summary.md)
