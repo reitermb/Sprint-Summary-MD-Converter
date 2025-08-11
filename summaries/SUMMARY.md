@@ -31,3 +31,4 @@
 * [Sprint 127 Summary](sprint-127-summary.md)
 * [Sprint 128 Summary](sprint-128-summary.md)
 * [Sprint 129 Summary](sprint-129-summary.md)
+* [Sprint 130 Summary](sprint-130-summary.md)
